@@ -1,0 +1,15 @@
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\bin\Debug\net7.0\WalkerGame.exe
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\bin\Debug\net7.0\WalkerGame.deps.json
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\bin\Debug\net7.0\WalkerGame.runtimeconfig.json
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\bin\Debug\net7.0\WalkerGame.dll
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\bin\Debug\net7.0\WalkerGame.pdb
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.csproj.AssemblyReference.cache
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.AssemblyInfoInputs.cache
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.AssemblyInfo.cs
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.csproj.CoreCompileInputs.cache
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.dll
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\refint\WalkerGame.dll
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.pdb
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\WalkerGame.genruntimeconfig.cache
+C:\Users\ritmh\RiderProjects\WalkerGame\WalkerGame\obj\Debug\net7.0\ref\WalkerGame.dll
