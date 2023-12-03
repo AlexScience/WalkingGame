@@ -6,5 +6,5 @@ using WalkerGame.Models;
 Console.WriteLine("Hello, World!");
 
 Game game = new Game();
-game.CreatePlayer(2);
+game.CreatePlayers(2);
 Console.WriteLine();

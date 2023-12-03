@@ -2,5 +2,10 @@ namespace WalkerGame.Models;
 
 public class Trap
 {
-    public int CountTrap { get; init; }
+   public Trap(int position)
+   {
+      Position = position;
+   }
+
+   public int Position { get;}
 }

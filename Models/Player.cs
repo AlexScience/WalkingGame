@@ -1,3 +1,11 @@
 namespace WalkerGame.Models;
 
-public record Player(Guid Id, string Name,int Points);
+public class Player
+{
+    public Player(string name)
+    {
+        Name = name;
+    }
+
+    public string Name { get; } 
+}

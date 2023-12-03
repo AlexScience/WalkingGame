@@ -1,3 +1,14 @@
 namespace WalkerGame.Models;
 
-public record Map(int Size,Trap Trap);
+public class Map
+{
+    public Map(List<Trap> traps)
+    {
+        Traps = traps;
+    }
+
+    public int Size { get; init; }
+    public List<Trap> Traps { get; init; }
+    
+    
+}
