@@ -2,12 +2,15 @@ namespace WalkerGame.Models;
 
 public class Map
 {
-    public Map(List<Trap> traps, int size)
+    public Map(List<Trap> traps, int sizeMap, List<Player> players)
     {
         Traps = traps;
-        Size = new int[size];
+        SizeMap = sizeMap;
+        Players = players;
     }
 
-    public int[] Size { get; init; }
     public List<Trap> Traps { get; init; }
+    public int SizeMap { get; init; }
+
+    public List<Player> Players { get; init; }
 }

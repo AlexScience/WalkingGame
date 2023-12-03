@@ -4,4 +4,4 @@ using WalkerGame;
 
 
 Game game = new Game();
-game.Start(2,10,1);
+game.Start(2,50,5);
