@@ -10,19 +10,25 @@ public class Game
         GenerateMap(mapSize, trapsCount);
     }
 
-    private void CreatePlayers(int count)
+    private List<Player> CreatePlayers(int count)
     {
-        string name = Console.ReadLine() ?? throw new ArgumentNullException($"Поле Имени не может быть пустым");
+        List<Player> players = new List<Player>();
         for (int i = 0; i < count; i++)
         {
+            string? name = Console.ReadLine();
             Player player = new Player(name);
+            players.Add(player);
         }
+
+        return players;
     }
 
-    private void GenerateMap(int trapsCount, int mapSize)
+
+    private Map GenerateMap(int trapsCount, int mapSize)
     {
         var traps = GenerateTraps(mapSize, trapsCount);
         var map = new Map(traps, mapSize);
+        return map;
     }
 
     private List<Trap> GenerateTraps(int mapSize, int count)
@@ -51,4 +57,6 @@ public class Game
 
         return positions;
     }
+    
+    /// =========
 }

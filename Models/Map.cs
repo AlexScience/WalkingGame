@@ -2,7 +2,7 @@ namespace WalkerGame.Models;
 
 public class Map
 {
-    public Map(List<Trap> traps,int size)
+    public Map(List<Trap> traps, int size)
     {
         Traps = traps;
         Size = new int[size];
@@ -10,6 +10,4 @@ public class Map
 
     public int[] Size { get; init; }
     public List<Trap> Traps { get; init; }
-    
-    
 }
