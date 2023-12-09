@@ -20,12 +20,7 @@
     <img alt="Last Release" src="https://img.shields.io/github/v/release/RimuruDev/WalkingGame?include_prereleases&logo=Dropbox&color=yellow">
   </a>
   <a>
-    <img alt="GitHub stars" <a href="/AlexScience/walkingGame/stargazers" data-view-component="true" class="Link Link--muted">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-2">
-    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-      <strong>1</strong>
-      star
+    <img alt="GitHub stars" scr="https://img.shields.io/github/stars/RimuruDev/WalkingGame?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat
 </a>
   <a>
     <img alt="GitHub user stars" src="https://img.shields.io/github/stars/RimuruDevaffiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
