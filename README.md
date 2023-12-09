@@ -20,7 +20,7 @@
     <img alt="Last Release" src="https://img.shields.io/github/v/release/RimuruDev/WalkingGame?include_prereleases&logo=Dropbox&color=yellow">
   </a>
   <a>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/RimuruDev/WalkingGame?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
+    <img alt="GitHub stars" src="https://github.com/AlexScience/walkingGame/stargazers">
   </a>
   <a>
     <img alt="GitHub user stars" src="https://img.shields.io/github/stars/RimuruDev?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
