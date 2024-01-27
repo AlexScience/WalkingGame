@@ -2,31 +2,25 @@
 
  <p align="center">
   <a>
-    <img alt="Made With Unity" src="https://img.shields.io/badge/made%20with-Unity-57b9d3.svg?logo=Unity">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AlexScience/WalkingGame?logo=Mapbox&color=orange">
   </a>
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/RimuruDev/WalkingGame?logo=github">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AlexScience/WalkingGame?logo=VirtualBox">
   </a>
   <a>
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/RimuruDev/WalkingGame?logo=Mapbox&color=orange">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/AlexScience/WalkingGame/total?color=brightgreen">
   </a>
   <a>
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/RimuruDev/WalkingGame?logo=VirtualBox">
+    <img alt="Last Release" src="https://img.shields.io/github/v/release/AlexScience/WalkingGame?include_prereleases&logo=Dropbox&color=yellow">
   </a>
   <a>
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/RimuruDev/WalkingGame/total?color=brightgreen">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AlexScience/WalkingGame?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
   </a>
   <a>
-    <img alt="Last Release" src="https://img.shields.io/github/v/release/RimuruDev/WalkingGame?include_prereleases&logo=Dropbox&color=yellow">
+    <img alt="GitHub user stars" src="https://img.shields.io/github/stars/AlexScience?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
   </a>
   <a>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/RimuruDev/WalkingGame?branch=main&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
-  </a>
-  <a>
-    <img alt="GitHub user stars" src="https://img.shields.io/github/stars/RimuruDev?affiliations=OWNER&branch=main&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat">
-  </a>
-  <a>
-    <img alt="" src="https://img.shields.io/github/watchers/RimuruDev/WalkingGame?style=flat">
+    <img alt="" src="https://img.shields.io/github/watchers/AlexScience/WalkingGame?style=flat">
   </a>
 </p>
 
@@ -65,14 +59,4 @@ dotnet run
 - Trap: Класс, представляющий ловушку на карте.
 - GameSettings: Класс настроек игры, используется для конфигурации параметров игры.
 - Vector2Int: Вспомогательный класс для работы с парой целых чисел.
-
-## Контрибьюторы
-- [RimuruDev](https://github.com/RimuruDev) - Рефакторинг и улучшение игры.
-- [AlexScience](https://github.com/AlexScience) - Оригинальная концепция и разработка игры.
-
-## Ссылки
-Оригинальный проект игры: [walkingGame](https://github.com/AlexScience/walkingGame)
-
-## Лицензия
-Этот проект распространяется под лицензией MIT.
 
